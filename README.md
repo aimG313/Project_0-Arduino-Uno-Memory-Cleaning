@@ -2,3 +2,10 @@
 ---
 _Upload this code to clear the memory of your Arduino Uno from previous code_
 
+**Instrument List:**
+| No |  Name | Quantity |
+|----|-------|-----------|
+| 1  | Arduino Uno R3 |  1 |
+| 2  | Jumper Wires | 2 | 
+ 
+
